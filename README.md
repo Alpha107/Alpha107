@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Project Abhimanyuu.**
 
-- 🌱 I’m currently learning **Machine and Deep Learning.**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
 - 💬 Ask me about **python, frontend.**
 
