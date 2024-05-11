@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
-- 💬 Ask me about **python, frontend.**
+- 💬 Ask me about **python, data science, frontend**
 
 - 📫 How to reach me **ranaabashesh983@gmail.com**
 
