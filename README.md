@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abashesh Ranabhat</h1>
-<h3 align="center">A passionate Computer Engineer from Nepal</h3>
+<h3 align="center">A passionate Computer Engineer from Nepal.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 
