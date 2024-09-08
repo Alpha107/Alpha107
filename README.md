@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpha107&label=Profile%20views&color=0e75b6&style=flat" alt="alpha107" /> </p>
 
-- 🔭 I’m currently working on my major project titled **Video in Video Staeganography using Deep Learning.**
+- 🔭 I’m currently working on my major project titled **Video in Video Steganography using Deep Learning.**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
