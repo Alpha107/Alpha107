@@ -11,8 +11,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering Graduate (2025)
-- 🤖 Full-Time Coding & Robotics Instructor
+- 🎓 Computer Engineer (2025)
+- 🤖 Coding & Robotics Instructor
 - 📊 Data Science & Machine Learning Practitioner
 - 🧠 Passionate about AI-driven Robotics, Intelligent Automation & Embedded Systems
 - 📍 Based in Lalitpur, Nepal
