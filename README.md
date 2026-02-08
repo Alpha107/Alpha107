@@ -1,88 +1,91 @@
 <h1 align="center">Hi 👋, I'm Abashesh Ranabhat</h1>
-<h3 align="center">Computer Engineer | AI & Robotics Engineer | Machine Learning Practitioner</h3>
+<h3 align="center">Computer Engineer | AI & Robotics Engineer | ML Practitioner</h3>
 
 <img align="right" alt="AI Robotics" width="400" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alpha107&label=Profile%20views&color=0e75b6&style=flat" alt="alpha107" />
+  <img src="https://komarev.com/ghpvc/?username=alpha107&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
+Computer Engineer with hands-on experience in **AI, Machine Learning, Robotics, and Data Annotation**.  
+I work at the intersection of **software, data, and embedded systems**, with a strong interest in intelligent automation and AI-driven robotics.
 
-- 🎓 Computer Engineer (2025)
-- 🤖 Coding & Robotics Instructor
-- 📊 Data Science & Machine Learning Practitioner
-- 🧠 Passionate about AI-driven Robotics, Intelligent Automation & Embedded Systems
-- 📍 Based in Lalitpur, Nepal
-
-I specialize in building systems that combine **Artificial Intelligence, Deep Learning, and Hardware Integration** to solve real-world problems.
+📍 Kathmandu, Nepal
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔹 Coding & Robotics Instructor — Mero Coding Class (June 2025 – Present)
-- Teaching Python programming, AI fundamentals & ML workflows
-- Conducting robotics sessions using Arduino, sensors & embedded hardware
-- Mentoring students in building functional robotics systems
-- Leading hands-on project development in AI-integrated robotics
+### 🔹 Coding Instructor — Mero Coding Class (Jul 2025 – Present)
+**Full-time | On-site | Kathmandu**
 
-### 🔹 Data Science Intern — Index IT Hub (March 2025 – May 2025)
-- Performed data cleaning, analysis & visualization (Pandas, NumPy, Matplotlib)
-- Implemented ML models for classification & prediction problems
-- Worked with structured datasets to extract actionable insights
+- Deliver daily instruction in **Python programming, Data Science fundamentals, and introductory ML workflows**
+- Teach **robotics and embedded systems** using Arduino, motor drivers, ultrasonic & IR sensors, relays, and IoT modules
+- Lead students through full project lifecycles: **idea planning → circuit design → coding → debugging → deployment**
+- Integrate **automation and intelligent system concepts** into classroom projects
+- Promote problem-solving, teamwork, and innovation through hands-on builds and demonstrations
+- Guide students in applying **AI and logic automation to real-world systems**
 
----
-
-## 🧠 Featured Projects
-
-### 🎥 Deep Learning-Based Video in Video Steganography
-- Designed deep neural network to securely embed one video inside another
-- Achieved low visual distortion with reliable decoding
-
-### 🍎 Fruit Spoilage Detection System
-- CNN-based real-time fruit classification system
-- Integrated live camera feed for continuous monitoring
-
-### 🔢 Digit Recognition Model (MNIST)
-- Developed optimized CNN for handwritten digit recognition
-- Improved accuracy through hyperparameter tuning
-
-### 🤖 AI-Integrated Robotics Systems
-- Obstacle Avoidance Robot
-- Line Following Robot
-- Smart Irrigation System
-- Smart Parking System
-- Smart Water Tank Monitoring
-- Sound Controlled Car
-- Smart Dustbin
+**Skills:** Python, Artificial Intelligence, Machine Learning, Robotics, Embedded Systems, Arduino, IoT
 
 ---
 
-## 🛠 Technical Expertise
+### 🔹 Data Annotation Specialist — Freelance (Nov 2025 – Jan 2026)
+**Independent Contractor | Remote**
+
+- Annotated and labeled **text, image, and structured datasets** for ML/AI model training
+- Maintained **high accuracy, consistency, and quality standards**
+- Performed validation and quality checks prior to submission
+- Collaborated with clients remotely to meet **tight deadlines**
+- Gained practical exposure to **data pipelines supporting AI systems**
+
+**Skills:** Data Annotation, Data Labeling, Quality Assurance, AI Training Data
+
+---
+
+### 🔹 Graphics Design Intern — Hima-Aus Education Consultancy (Jun 2025 – Aug 2025)
+**Internship | On-site | Kathmandu**
+
+- Designed visual and marketing materials for educational consultancy needs
+- Supported branding, layout design, and digital content creation
+
+**Skills:** Graphic Design, Visual Arts, Creative Tools
+
+---
+
+### 🔹 Data Analyst Intern — Index IT Hub (Aug 2024 – Nov 2024)
+**Internship | Lalitpur, Nepal**
+
+- Performed **data cleaning, analysis, and visualization** using Python
+- Worked with Pandas, NumPy, Matplotlib on real-world datasets
+- Assisted in building **classification and prediction models**
+- Extracted insights to support data-driven decision-making
+
+**Skills:** Python, Data Analysis, Machine Learning, Visualization
+
+---
+
+## 🧠 Technical Skills
 
 ### Programming
-Python | SQL | C | C++ | HTML | CSS | Scratch | Pictoblox
+Python | SQL | C | C++ | HTML | CSS
 
-### AI & Data Tools
+### AI & Data
 Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch  
 Matplotlib | Seaborn | PowerBI | Excel | MySQL
 
-### Platforms & Systems
+### Robotics & Systems
+Arduino | Sensors | Motor Drivers | Embedded Systems | IoT
+
+### Platforms
 Jupyter Notebook | VS Code | Arduino IDE | Linux
 
 ---
 
-## 📢 Research & Activities
-- 📄 Research Presenter — ICT-CEEL 2023 (Khopa College of Engineering)
-- 📚 Continuous learner in AI, ML & Robotics
-- ⚽ Active in football, basketball & cricket
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alpha107&show_icons=true&theme=dracula" height="150" />
@@ -91,12 +94,11 @@ Jupyter Notebook | VS Code | Arduino IDE | Linux
 
 ---
 
-## 📫 Connect With Me
-
-📧 abasheshkrana001@gmail.com  
-💼 https://www.linkedin.com/in/abashesh-ranabhat-803534259/  
-💻 https://github.com/alpha107  
+## 📫 Connect
+📧 Email: abasheshkrana001@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/abashesh-ranabhat-803534259/  
+💻 GitHub: https://github.com/alpha107
 
 ---
 
-⭐ *"Engineering intelligent systems that bridge AI and real-world robotics."*
+⭐ *Building intelligent systems that combine AI, data, and real-world hardware.*
