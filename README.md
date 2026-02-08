@@ -19,8 +19,7 @@ I work at the intersection of **software, data, and embedded systems**, with a s
 
 ## 💼 Professional Experience
 
-### 🔹 Coding Instructor — Mero Coding Class (Jul 2025 – Present)
-**Full-time | On-site | Kathmandu**
+### 🔹 Coding Instructor
 
 - Deliver daily instruction in **Python programming, Data Science fundamentals, and introductory ML workflows**
 - Teach **robotics and embedded systems** using Arduino, motor drivers, ultrasonic & IR sensors, relays, and IoT modules
@@ -29,12 +28,9 @@ I work at the intersection of **software, data, and embedded systems**, with a s
 - Promote problem-solving, teamwork, and innovation through hands-on builds and demonstrations
 - Guide students in applying **AI and logic automation to real-world systems**
 
-**Skills:** Python, Artificial Intelligence, Machine Learning, Robotics, Embedded Systems, Arduino, IoT
-
 ---
 
-### 🔹 Data Annotation Specialist — Freelance (Nov 2025 – Jan 2026)
-**Independent Contractor | Remote**
+### 🔹 Data Annotation Specialist — Freelance
 
 - Annotated and labeled **text, image, and structured datasets** for ML/AI model training
 - Maintained **high accuracy, consistency, and quality standards**
@@ -42,29 +38,21 @@ I work at the intersection of **software, data, and embedded systems**, with a s
 - Collaborated with clients remotely to meet **tight deadlines**
 - Gained practical exposure to **data pipelines supporting AI systems**
 
-**Skills:** Data Annotation, Data Labeling, Quality Assurance, AI Training Data
-
 ---
 
-### 🔹 Graphics Design Intern — Hima-Aus Education Consultancy (Jun 2025 – Aug 2025)
-**Internship | On-site | Kathmandu**
+### 🔹 Graphics Design Intern
 
 - Designed visual and marketing materials for educational consultancy needs
 - Supported branding, layout design, and digital content creation
 
-**Skills:** Graphic Design, Visual Arts, Creative Tools
-
 ---
 
-### 🔹 Data Analyst Intern — Index IT Hub (Aug 2024 – Nov 2024)
-**Internship | Lalitpur, Nepal**
+### 🔹 Data Analyst Intern — Index IT Hub
 
 - Performed **data cleaning, analysis, and visualization** using Python
 - Worked with Pandas, NumPy, Matplotlib on real-world datasets
 - Assisted in building **classification and prediction models**
 - Extracted insights to support data-driven decision-making
-
-**Skills:** Python, Data Analysis, Machine Learning, Visualization
 
 ---
 
