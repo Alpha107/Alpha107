@@ -1,92 +1,190 @@
-<h1 align="center">Hi 👋, I'm Abashesh Ranabhat</h1>
-<h3 align="center">Computer Engineer | AI & Robotics Engineer | ML Practitioner</h3>
+<h1 align="center">Abashesh Ranabhat</h1>
 
-<img align="right" alt="AI Robotics" width="400" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
+<h3 align="center">
+Computer Engineer • AI & Robotics Enthusiast • Intelligent Systems Developer
+</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alpha107&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+Building practical AI, automation, robotics, and data-driven systems.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alpha107&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-Computer Engineer with hands-on experience in **AI, Machine Learning, Robotics, and Data Annotation**.  
-I work at the intersection of **software, data, and embedded systems**, with a strong interest in intelligent automation and AI-driven robotics.
+#  About Me
 
-📍 Kathmandu, Nepal
+I am a Computer Engineering graduate from Nepal with hands-on experience in:
 
----
+- Artificial Intelligence & Machine Learning
+- Robotics & Embedded Systems
+- Intelligent Automation
+- Data Engineering & Visualization
+- IoT-Based Systems
 
-## 💼 Professional Experience
+My work focuses on combining software, data, and hardware to build practical real-world systems.
 
-### 🔹 Coding Instructor
-
-- Deliver daily instruction in **Python programming, Data Science fundamentals, and introductory ML workflows**
-- Teach **robotics and embedded systems** using Arduino, motor drivers, ultrasonic & IR sensors, relays, and IoT modules
-- Lead students through full project lifecycles: **idea planning → circuit design → coding → debugging → deployment**
-- Integrate **automation and intelligent system concepts** into classroom projects
-- Promote problem-solving, teamwork, and innovation through hands-on builds and demonstrations
-- Guide students in applying **AI and logic automation to real-world systems**
-
----
-
-### 🔹 Data Annotation Specialist — Freelance
-
-- Annotated and labeled **text, image, and structured datasets** for ML/AI model training
-- Maintained **high accuracy, consistency, and quality standards**
-- Performed validation and quality checks prior to submission
-- Collaborated with clients remotely to meet **tight deadlines**
-- Gained practical exposure to **data pipelines supporting AI systems**
+I enjoy developing projects at the intersection of:
+- AI
+- Robotics
+- Geographic Intelligence
+- Automation
+- Smart Systems
 
 ---
 
-### 🔹 Graphics Design Intern
+#  Technical Skills
 
-- Designed visual and marketing materials for educational consultancy needs
-- Supported branding, layout design, and digital content creation
-
----
-
-### 🔹 Data Analyst Intern — Index IT Hub
-
-- Performed **data cleaning, analysis, and visualization** using Python
-- Worked with Pandas, NumPy, Matplotlib on real-world datasets
-- Assisted in building **classification and prediction models**
-- Extracted insights to support data-driven decision-making
+## Programming Languages
+- Python
+- C / C++
+- SQL
+- HTML / CSS
+- JavaScript
 
 ---
 
-## 🧠 Technical Skills
-
-### Programming
-Python | SQL | C | C++ | HTML | CSS
-
-### AI & Data
-Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch  
-Matplotlib | Seaborn | PowerBI | Excel | MySQL
-
-### Robotics & Systems
-Arduino | Sensors | Motor Drivers | Embedded Systems | IoT
-
-### Platforms
-Jupyter Notebook | VS Code | Arduino IDE | Linux
+## AI & Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Matplotlib
+- Seaborn
+- Power BI
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpha107&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alpha107&layout=compact&theme=dracula" height="150" />
-</div>
-
----
-
-## 📫 Connect
-📧 Email: abasheshkrana001@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/abashesh-ranabhat-803534259/  
-💻 GitHub: https://github.com/alpha107
+## Robotics & Embedded Systems
+- Arduino
+- ESP32
+- Sensors & Actuators
+- Motor Drivers
+- IoT Systems
+- GSM & RTC Modules
+- Embedded Automation
 
 ---
 
-⭐ *Building intelligent systems that combine AI, data, and real-world hardware.*
+## Backend & Tools
+- FastAPI
+- Flask
+- SQLite
+- Git & GitHub
+- Linux
+- VS Code
+- Jupyter Notebook
+
+---
+
+#  Featured Projects
+
+##  AgroNepal Intelligence
+AI-powered agricultural intelligence platform for all 77 districts of Nepal using:
+- Machine Learning
+- Climate Analytics
+- NASA POWER API
+- Interactive Geographic Visualization
+
+🔗 Repository:  
+https://github.com/Alpha107/AgroNepal-Intelligence
+
+---
+
+##  Nepal News Map Intelligence Platform
+Real-time bilingual geographic news intelligence dashboard for Nepal featuring:
+- News Aggregation
+- Geographic NLP
+- District-Level Mapping
+- Interactive Intelligence Visualization
+
+🔗 Repository:  
+https://github.com/Alpha107/Nepal-News-Map-Intelligence-Platform
+
+---
+
+##  RoboInventory
+Inventory and workflow management platform designed for robotics laboratories and technical workshops.
+
+Features:
+- Automated inventory synchronization
+- Project management
+- Usage tracking
+- Analytics dashboard
+
+🔗 Repository:  
+https://github.com/Alpha107/RoboInventory
+
+---
+
+##  Smart Medicine Dispenser
+IoT-based automated medicine dispensing system using:
+- Arduino Uno
+- RTC Scheduling
+- Ultrasonic Sensors
+- Servo Automation
+- GSM Notifications
+
+🔗 Repository:  
+https://github.com/Alpha107/Smart-Medicine-Dispenser-Using-Arduino-Uno
+
+---
+
+#  Experience
+
+## Coding Instructor
+- Teach Python programming, AI fundamentals, robotics, and embedded systems
+- Guide students through complete project development workflows
+- Conduct practical sessions involving automation and sensor-based systems
+
+---
+
+## Data Analyst Intern — Index IT Hub
+- Performed data analysis and visualization using Python
+- Worked on machine learning workflows and predictive modeling
+- Extracted insights from structured datasets
+
+---
+
+## Freelance Data Annotation Specialist
+- Annotated image, text, and structured datasets for AI training pipelines
+- Performed quality validation and dataset consistency checks
+
+---
+
+#  GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha107&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+---
+
+#  Current Interests
+
+- AI for Real-World Systems
+- Robotics & Intelligent Automation
+- Computer Vision
+- Geographic Intelligence Systems
+- Embedded AI
+- Smart Infrastructure Systems
+
+---
+
+#  Connect With Me
+
+- GitHub: https://github.com/Alpha107
+- LinkedIn: https://www.linkedin.com/in/abashesh-ranabhat-803534259/
+- Portfolio: https://www.abasheshranabhat.com.np/
+
+---
+
+<p align="center">
+⭐ Building intelligent systems that combine AI, automation, and real-world engineering.
+</p>
