@@ -135,7 +135,7 @@ https://github.com/Alpha107/Smart-Medicine-Dispenser-Using-Arduino-Uno
 
 #  Experience
 
-## Coding Instructor
+## Robotics & Coding Instructor
 - Teach Python programming, AI fundamentals, robotics, and embedded systems
 - Guide students through complete project development workflows
 - Conduct practical sessions involving automation and sensor-based systems
