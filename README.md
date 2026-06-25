@@ -83,12 +83,12 @@ Sensors & Actuators · Motor Drivers · GSM & RTC Modules · IoT Systems · Embe
 
 | Project | Description | Stack |
 |---|---|---|
+| [Smart Medicine Dispenser](https://github.com/Alpha107/Smart-Medicine-Dispenser-Using-Arduino-Uno) | RTC-scheduled automated dispenser with proximity sensing and GSM notifications | C++, Arduino, GSM |
+| [Wildfire Detection System](https://github.com/Alpha107/Wildfire-Detection-System-Using-ESP32) | IoT smoke and flame detection with real-time GSM alerts for forest fire early warning | C++, ESP32, GSM |
 | [Wall-E Balancing Robot](https://github.com/Alpha107/Wall-E-Inspired-Two-Wheel-Balancing-Robot) | Two-wheel self-balancing robot with ultrasonic sensing, Wall-E inspired mechanical design | C++, Arduino |
 | [Obstacle Avoidance RC Car](https://github.com/Alpha107/Obstacle-Avoidance-RC-Car-Using-Arduino-Uno) | Autonomous real-time obstacle detection and navigation using ultrasonic sensors | C++, Arduino |
 | [RC Fire-Fighting Truck](https://github.com/Alpha107/RC-Fire-Fighting-Truck-Using-ESP32) | Autonomous fire detection and suppression robot with pump actuator | C++, ESP32 |
 | [Line Following Robot](https://github.com/Alpha107/Line-Following-Robot-Using-ESP32) | IR sensor-based path tracking with motor control | C++, ESP32 |
-| [Wildfire Detection System](https://github.com/Alpha107/Wildfire-Detection-System-Using-ESP32) | IoT smoke and flame detection with real-time GSM alerts for forest fire early warning | C++, ESP32, GSM |
-| [Smart Medicine Dispenser](https://github.com/Alpha107/Smart-Medicine-Dispenser-Using-Arduino-Uno) | RTC-scheduled automated dispenser with proximity sensing and GSM notifications | C++, Arduino, GSM |
 | [Smart Parking System](https://github.com/Alpha107/Smart-Parking-System-Using-ESP32) | Sensor-based slot detection with LED and LCD real-time guidance | C++, ESP32 |
 | [Smart Irrigation System](https://github.com/Alpha107/Smart-Irrigation-System-Using-Arduino-Uno) | Soil moisture and water level automation for efficient plant watering | C++, Arduino |
 
